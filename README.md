@@ -12,6 +12,7 @@ Class
 Email
 
 Input validation:
+
 -Name must start with a capital letter
 -Roll number must contain only digits
 -Class must be in uppercase letters
